@@ -1,0 +1,17 @@
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\bin\Debug\DinarNOT.exe.config
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\bin\Debug\DinarNOT.exe
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\bin\Debug\DinarNOT.pdb
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.Form1.resources
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.Properties.Resources.resources
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.csproj.GenerateResource.cache
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.exe
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.pdb
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.Form2.resources
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\bin\Debug\DinarNOT.exe.manifest
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\bin\Debug\DinarNOT.application
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.TrustInfo.xml
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.exe.manifest
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.application
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.giris_form.resources
+D:\Visual Studio Projeler\DinarNOT\DinarNOT\obj\Debug\DinarNOT.csprojAssemblyReference.cache
