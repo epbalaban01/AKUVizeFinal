@@ -1,5 +1,5 @@
-# DinarNOT
-DinarNOT - Vize/Final Not Hesaplama
+# DinarNOT Kaynak Kodu
+
 
 DinarNOT vize/final not hesaplama gibi kaynak kodu oluşturmak için ihtiyacınız olan her şey burda. Visual Studio 2017 öncesi ve sonrası proje dosyaları dahildir.
 
